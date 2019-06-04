@@ -1,0 +1,7 @@
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\bin\Debug\FreqDictionary.exe.config
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\bin\Debug\FreqDictionary.exe
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\bin\Debug\FreqDictionary.pdb
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\obj\Debug\FreqDictionary.csprojAssemblyReference.cache
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\obj\Debug\FreqDictionary.csproj.CoreCompileInputs.cache
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\obj\Debug\FreqDictionary.exe
+C:\Users\setup\source\repos\FreqDictionary\FreqDictionary\obj\Debug\FreqDictionary.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqDictionary", "FreqDictionary\FreqDictionary.csproj", "{6CA16263-FCC3-4A5A-B896-B530D504F9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA16263-FCC3-4A5A-B896-B530D504F9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA16263-FCC3-4A5A-B896-B530D504F9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA16263-FCC3-4A5A-B896-B530D504F9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA16263-FCC3-4A5A-B896-B530D504F9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805C1CC0-3804-4D94-919F-56E953B5A925}
+	EndGlobalSection
+EndGlobal
